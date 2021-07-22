@@ -1,9 +1,7 @@
-from fastapi import FastAPI, Query
-from typing import Optional, List
+from fastapi import FastAPI
 
 
 # Create FastAPI instance
 app = FastAPI()
-
 
 
